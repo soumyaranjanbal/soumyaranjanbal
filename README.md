@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**soumyaranjanbal/soumyaranjanbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on on sustainable engineering projects focussed on life cycle analysis. 
 - 🌱 I’m currently learning advanced data analysis techniques to uncover actionable insights from environmental data.
