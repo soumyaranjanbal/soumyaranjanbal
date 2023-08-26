@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Soumya based in Germany. I am currently pursuing my master's degree in Environmental Engineering. I am passionate about finding innovative sustainable solutions for a greener and cleaner future. 
 
 - 🔭 I’m currently working on on sustainable engineering projects focussed on life cycle analysis. 
 - 🌱 I’m currently learning advanced data analysis techniques to uncover actionable insights from environmental data.
