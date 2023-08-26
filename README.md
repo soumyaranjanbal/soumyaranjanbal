@@ -7,5 +7,5 @@ I am passionate about innovative sustainable solutions for a greener and cleaner
 - 👯 I’m looking to collaborate on initiatives that promote sustainability, climate action, and innovative solutions.
 - 🤔 I’m looking for help with integrating data analytics into complex environmental engineering projects.
 - 💬 Ask me about sustainable project management, data analysis for environmental solutions, or climate change mitigation and adaptation. 
-- 📫 How to reach me: [LinkedIn] www.linkedin.com/in/soumyaranjan-bal
+
 
