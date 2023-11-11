@@ -12,7 +12,6 @@ I am passionate about innovative sustainable solutions for a greener and cleaner
 <p align="left">
 <a href="https://linkedin.com/in/soumyaranjan-bal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyaranjan-bal" height="30" width="40" /></a>
 <a href="https://instagram.com/soumyaranjan.bal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyaranjan.bal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/verywellinformed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="verywellinformed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
